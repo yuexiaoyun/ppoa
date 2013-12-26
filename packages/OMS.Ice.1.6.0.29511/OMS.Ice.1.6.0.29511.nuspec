@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>OMS.Ice</id>
+    <version>1.6.0.29511</version>
+    <title>OMS.Ice - T4 Text Template Generator</title>
+    <authors>Olaf Meyer</authors>
+    <owners>Olaf Meyer</owners>
+    <licenseUrl>http://omsice.codeplex.com/license</licenseUrl>
+    <projectUrl>http://omsice.codeplex.com/</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>OMS.Ice is an in-process T4 text template generator. It can be used to parse T4 text templates and to generate textual output at runtime. The OMS.Ice - T4 Text Template Generator has no dependencies to Visual Studio and can be deployed with your application.</description>
+    <releaseNotes />
+    <copyright>Eclipse Public License - v 1.0</copyright>
+    <language />
+    <tags>T4 Text Template Generator</tags>
+  </metadata>
+</package>

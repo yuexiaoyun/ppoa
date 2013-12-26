@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>FM.IceLink</id>
+    <version>2.4.2</version>
+    <title>IceLink for .NET, Community Edition</title>
+    <authors>Frozen Mountain Software</authors>
+    <owners>Frozen Mountain Software</owners>
+    <projectUrl>http://www.frozenmountain.com/icelink/</projectUrl>
+    <iconUrl>http://www.frozenmountain.com/images/icelink-logo.png</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>A library for .NET that provides resilient peer-to-peer data streams through firewalls for live media. (Community Edition)</description>
+    <releaseNotes />
+    <copyright />
+    <language />
+    <tags>IceLink ICE STUN TURN P2P UDP NAT Firewall Traversal .NET</tags>
+    <dependencies>
+      <dependency id="FM" />
+    </dependencies>
+  </metadata>
+</package>

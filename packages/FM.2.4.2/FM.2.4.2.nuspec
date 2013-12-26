@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>FM</id>
+    <version>2.4.2</version>
+    <title>FM Core for .NET, Community Edition</title>
+    <authors>Frozen Mountain Software</authors>
+    <owners>Frozen Mountain Software</owners>
+    <projectUrl>http://www.frozenmountain.com/</projectUrl>
+    <iconUrl>http://www.frozenmountain.com/images/fm-logo.png</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>A client-side library for .NET that provides core utilities for other FM client-side libraries. (Community Edition)</description>
+    <tags>FM Core Frozen Mountain .NET</tags>
+  </metadata>
+</package>
